@@ -1,1 +1,2 @@
 # 2019MIRDRN
+The source code and data of the web service miRDRN (http://mirdrn.ncu.edu.tw/mirdrn) are compressed into a single zip file 2019MIRDRN of size 880 MG. When unzipped 2019MIRDRN unpacks into two components of the source code, WebSite Interface (filename mirdrn, 3.6 MB) and Webservice Servlet (filename mirdrn_servlet, 28.4 MB), and the database in SQL format (filename 2014bio.sql, 18 GB). 
